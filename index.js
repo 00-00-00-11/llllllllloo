@@ -717,4 +717,4 @@ const oyun = [
 }
 
 });
-dis
+discord.login("");
