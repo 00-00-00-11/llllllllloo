@@ -717,4 +717,4 @@ const oyun = [
 }
 
 });
-discord.login("MzY2NjI4Mjk4NjEwMDQ5MDM0.Dk2gIA.k6uHDZq6ieZsPtVrU1ugnPlhaZU")
+dis
